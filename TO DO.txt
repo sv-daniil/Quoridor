@@ -1,0 +1,7 @@
+Pre-defined list of p/i moves?
+
+Jumps
+Win-line
+Wall-locking prohibition
+
+Instruction
