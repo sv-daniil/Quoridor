@@ -1,7 +1,5 @@
-Pre-defined list of p/i moves?
+Correct players's numbers in win-titles
 
-Jumps
-Win-line
 Wall-locking prohibition
-
+End screen (win)
 Instruction
