@@ -1,5 +1,1 @@
-Correct players's numbers in win-titles
-
 Wall-locking prohibition
-End screen (win)
-Instruction
